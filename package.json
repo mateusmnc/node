@@ -1,0 +1,12 @@
+{
+  "name": "mox",
+  "version": "0.1",
+  "description": "Starting up the nodejs server",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "supervisor server.js"
+  },
+  "author": "manica",
+  "license": "mine-dont-touch-this"
+}
