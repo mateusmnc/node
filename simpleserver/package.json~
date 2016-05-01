@@ -1,12 +1,12 @@
 {
-  "name": "simple server with node",
+  "name": "mox",
   "version": "0.1",
-  "description": "Get started with nodejs server",
+  "description": "Starting up the nodejs server",
   "private": true,
   "main": "server.js",
   "scripts": {
     "start": "supervisor server.js"
   },
-  "author": "Mateus Manica",
+  "author": "manica",
   "license": "MIT License"
 }
